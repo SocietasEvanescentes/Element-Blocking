@@ -1,0 +1,22 @@
+! Fandom (Blocks Fandom Videos, Works in AdGuard for iOS & Android)
+
+||jwplayer.com^$domain=fandom.com
+
+||jwpcdn.com^$domain=fandom.com
+
+||jwplatform.com^$domain=fandom.com
+
+||jwpltx.com^$domain=fandom.com
+
+||jwpsrv.com^$domain=fandom.com
+
+fandom.com##.article-featured-video__player
+
+! Block Google Search Results (Blocks Google Search suggestions from spoiling shows/movies)
+
+www.google.*##form[role="search"] .UUbT9
+
+www.google.*###search .ULSxyf, #botstuff
+
+www.google.*###search [id^="eob_"]
+
