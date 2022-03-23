@@ -23,3 +23,11 @@ www.google.*###search [id^="eob_"]
 ! Block Bing News on the homepage (This world is going to shit, and I am tired of seeing bad news)
 
 bing.com###vs_cont
+
+! Block prolific bot
+
+app.prolific.co###ada-button-frame
+
+app.prolific.co###ada-chat-frame
+
+
