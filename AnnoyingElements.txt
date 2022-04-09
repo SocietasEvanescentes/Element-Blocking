@@ -37,3 +37,7 @@ paypal.com###ccpaCookieBanner
 ! Block Trending Bing
 
 bing.com###tob_rail_container
+
+! Block Office Meet Now
+
+office.com###meet-now-button
