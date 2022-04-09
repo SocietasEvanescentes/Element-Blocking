@@ -30,4 +30,10 @@ app.prolific.co###ada-button-frame
 
 app.prolific.co###ada-chat-frame
 
+! Block PayPal Banner
 
+paypal.com###ccpaCookieBanner
+
+! Block Trending Bing
+
+bing.com###tob_rail_container
