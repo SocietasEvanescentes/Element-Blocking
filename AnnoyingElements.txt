@@ -41,3 +41,10 @@ bing.com###tob_rail_container
 ! Block Office Meet Now
 
 office.com###meet-now-button
+
+! Outlook and OneDrive
+
+onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container
+outlook.live.com###skype_container
+outlook.live.com###owaMeetNowButton_container
+outlook.live.com###QrConnect_container
