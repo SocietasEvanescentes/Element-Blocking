@@ -36,3 +36,8 @@ onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container
 outlook.live.com###skype_container
 outlook.live.com###owaMeetNowButton_container
 outlook.live.com###QrConnect_container
+
+! Block Reddit Elements
+
+
+old.reddit.com###redesign-beta-optin-btn
