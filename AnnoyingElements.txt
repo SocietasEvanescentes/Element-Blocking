@@ -30,12 +30,13 @@ bing.com###tob_rail_container
 
 office.com###meet-now-button
 
-! Outlook and OneDrive
+! Bing, Outlook and OneDrive
 
 onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container
 outlook.live.com###skype_container
 outlook.live.com###owaMeetNowButton_container
 outlook.live.com###QrConnect_container
+bing.com###b_opalpers
 
 ! Block Reddit Elements
 
