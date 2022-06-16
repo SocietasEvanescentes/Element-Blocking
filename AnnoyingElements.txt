@@ -42,3 +42,8 @@ outlook.live.com###QrConnect_container
 
 old.reddit.com###redesign-beta-optin-btn
 old.reddit.com###ecb
+
+
+! Amazon Alexa 
+
+alexa.amazon.com###d-deprecation-banner
