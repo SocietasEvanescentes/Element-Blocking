@@ -49,3 +49,6 @@ old.reddit.com###ecb
 ! Amazon Alexa 
 
 alexa.amazon.com###d-deprecation-banner
+
+! Vudu
+vudu.com###kustomer-ui-sdk-iframe
