@@ -38,6 +38,7 @@ outlook.live.com###owaMeetNowButton_container
 outlook.live.com###QrConnect_container
 bing.com###b_opalpers
 bing.com###id_rc
+bing.com###rewardsEntryPoint
 
 ! Block Reddit Elements
 
