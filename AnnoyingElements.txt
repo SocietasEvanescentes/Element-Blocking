@@ -40,6 +40,10 @@ bing.com###b_opalpers
 bing.com###id_rc
 bing.com###rewardsEntryPoint
 
+onedrive.live.com###appRoot > div.root_5f70b3d8 > div.body_f28f050d.ready_f28f050d:last-child > div.DropTargetRelay.root_78e2eaf3.absolute_78e2eaf3 > div.DragSourceRelay.root_78e2eaf3.absolute_78e2eaf3 > div.dropZone_f28f050d > div.legacySearchWrapper_f28f050d:first-child > div.od-LeftNav.od-LeftNav--inline > div > div.od-LeftNav-navContent:nth-child(2) > div:last-child > div.LeftPane-notifications > div.LeftPane-notificationArea > div.LeftNav-subLinksClip > div.LeftNav-subLinks > a.LeftNav-notificationLink:last-child
+
+onedrive.live.com###appRoot > div.root_5f70b3d8 > div.body_f28f050d.ready_f28f050d:last-child > div.DropTargetRelay.root_78e2eaf3.absolute_78e2eaf3 > div.DragSourceRelay.root_78e2eaf3.absolute_78e2eaf3 > div.dropZone_f28f050d > div.legacySearchWrapper_f28f050d:first-child > div.od-LeftNav.od-LeftNav--inline > div > div.od-LeftNav-navContent:nth-child(2) > div:last-child > div.LeftPane-notifications > div.LeftPane-notificationArea > div.LeftNav-subLinksClip > div.LeftNav-subLinks > div.LeftNav-subLinksAsComponent:first-child
+
 ! Block Reddit Elements
 
 
