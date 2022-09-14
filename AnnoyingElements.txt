@@ -57,3 +57,7 @@ alexa.amazon.com###d-deprecation-banner
 
 ! Vudu
 vudu.com###kustomer-ui-sdk-iframe
+
+
+! Google
+docs.google.com###docs-meet-in-editors-entrypointbutton
