@@ -43,6 +43,7 @@ onedrive.live.com###od-PremiumUpsellBanner-LeftNav-header
 onedrive.live.com###od-PremiumUpsellBanner-LeftNav-link
 onedrive.live.com###od-PremiumUpsellBanner-details
 onedrive.live.com###od-PremiumUpsellBanner-message
+onedrive.live.com###od-PremiumUpsellBanner-upsell
 
 
 
