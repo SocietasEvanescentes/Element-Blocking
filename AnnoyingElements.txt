@@ -63,6 +63,8 @@ old.reddit.com###ecb
 
 alexa.amazon.com###d-deprecation-banner
 smile.amazon.com###expandable-nav storage-menu
+smile.amazon.com###device-personalization-nav
+
 
 ! Vudu
 vudu.com###kustomer-ui-sdk-iframe
