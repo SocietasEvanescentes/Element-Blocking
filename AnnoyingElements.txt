@@ -39,13 +39,13 @@ outlook.live.com###QrConnect_container
 bing.com###b_opalpers
 bing.com###id_rc
 bing.com###rewardsEntryPoint
-onedrive.live.com###od-PremiumUpsellBanner-LeftNav-header
-onedrive.live.com###od-PremiumUpsellBanner-LeftNav-link
-onedrive.live.com###od-PremiumUpsellBanner-details
-onedrive.live.com###od-PremiumUpsellBanner-message
-onedrive.live.com###od-PremiumUpsellBanner-upsell
-onedrive.live.com###od-PremiumUpsellBanner-header
-onedrive.live.com###od-PremiumUpsellBanner
+onedrive.live.com###PremiumUpsellBanner-LeftNav-header
+onedrive.live.com###PremiumUpsellBanner-LeftNav-link
+onedrive.live.com###PremiumUpsellBanner-details
+onedrive.live.com###PremiumUpsellBanner-message
+onedrive.live.com###PremiumUpsellBanner-upsell
+onedrive.live.com###PremiumUpsellBanner-header
+onedrive.live.com###PremiumUpsellBanner
 onedrive.live.com###StorageInfo-upsellWrapper
 onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond
 
