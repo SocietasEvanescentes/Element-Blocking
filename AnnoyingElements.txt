@@ -59,9 +59,10 @@ old.reddit.com###redesign-beta-optin-btn
 old.reddit.com###ecb
 
 
-! Amazon Alexa 
+! Amazon 
 
 alexa.amazon.com###d-deprecation-banner
+smile.amazon.com###expandable-nav storage-menu
 
 ! Vudu
 vudu.com###kustomer-ui-sdk-iframe
