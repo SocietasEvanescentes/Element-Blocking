@@ -46,6 +46,10 @@ onedrive.live.com###od-PremiumUpsellBanner-message
 onedrive.live.com###od-PremiumUpsellBanner-upsell
 onedrive.live.com###od-PremiumUpsellBanner-header
 onedrive.live.com###od-PremiumUpsellBanner
+onedrive.live.com###StorageInfo-upsellWrapper
+onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond
+onedrive.live.com###PROD_OneDrive-Web_LeftNavPageList_Unknown_UpgradePage&v=upgrade
+onedrive.live.com###v=ManageVault
 
 
 ! Block Reddit Elements
