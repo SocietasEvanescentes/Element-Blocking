@@ -44,7 +44,8 @@ onedrive.live.com###od-PremiumUpsellBanner-LeftNav-link
 onedrive.live.com###od-PremiumUpsellBanner-details
 onedrive.live.com###od-PremiumUpsellBanner-message
 onedrive.live.com###od-PremiumUpsellBanner-upsell
-
+onedrive.live.com###od-PremiumUpsellBanner-header
+onedrive.live.com###od-PremiumUpsellBanner
 
 
 ! Block Reddit Elements
