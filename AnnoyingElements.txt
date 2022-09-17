@@ -26,9 +26,10 @@ paypal.com###ccpaCookieBanner
 bing.com###b_opalpers
 bing.com###tob_rail_container
 
-! Block Office Meet Now
+! Block Office 365
 
 office.com###meet-now-button
+office.com###GoPremiumDiamond_container
 
 ! Bing, Outlook and OneDrive
 
