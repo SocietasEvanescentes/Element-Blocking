@@ -49,6 +49,7 @@ onedrive.live.com###od-PremiumUpsellBanner-header
 onedrive.live.com###od-PremiumUpsellBanner
 onedrive.live.com###StorageInfo-upsellWrapper
 onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond
+bing.com##.b_recents
 
 ! Block Reddit Elements
 
