@@ -12,11 +12,12 @@
 
 fandom.com##.article-featured-video__player
 
-! Block prolific bot
+! Block prolific stuff
 
 app.prolific.co###ada-button-frame
 
 app.prolific.co###ada-chat-frame
+app.prolific.co##.pendo-badge, ._pendo-badge
 
 ! Block PayPal Banner
 
