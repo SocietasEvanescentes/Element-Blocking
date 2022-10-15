@@ -32,6 +32,7 @@ bing.com###tob_rail_container
 office.com###meet-now-button
 office.com###GoPremiumDiamond_container
 office.com###install-container--fluent
+office.com###feedbackContainer
 
 ! Bing, Outlook and OneDrive
 
