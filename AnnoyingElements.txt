@@ -1,3 +1,5 @@
+! Title: AdGuard Element Blocking
+
 ! Fandom (Blocks Fandom Videos, Works in AdGuard for iOS & Android)
 
 ||jwplayer.com^$domain=fandom.com
