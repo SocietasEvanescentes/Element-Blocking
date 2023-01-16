@@ -38,6 +38,7 @@ office.com###feedbackContainer
 
 ! Bing, Outlook and OneDrive
 
+outlook.live.com###LeftRail
 outlook.live.com###owaNoteFeedButton
 onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container
 outlook.live.com###skype_container
