@@ -66,6 +66,8 @@ old.reddit.com###redesign-beta-optin-btn
 old.reddit.com###ecb
 old.reddit.com##.tutorial_post
 reddit.com###redesign-beta-optin-btn
+old.reddit.com##.footer-parent
+reddit.com##.footer-parent
 
 
 ! Amazon 
