@@ -82,6 +82,7 @@ vudu.com###kustomer-ui-sdk-iframe
 
 ! Google
 docs.google.com###docs-meet-in-editors-entrypointbutton
+google.com###tads
 
 ! Ars
 arstechnica.com##.ars-video-playlist
