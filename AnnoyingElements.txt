@@ -28,6 +28,8 @@ paypal.com###ccpaCookieBanner
 ! Block Trending Bing
 bing.com###b_opalpers
 bing.com###tob_rail_container
+bing.com###lgImgAnsContainer
+bing.com###lgAnsFeedbackMopContainer
 
 ! Block Office 365
 
