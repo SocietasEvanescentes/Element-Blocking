@@ -1,4 +1,6 @@
-! Title: AdGuard Element Blocking
+! Title: 😡 My Personal Blocking of Annoying Elements
+! Version: 2023
+! Expires: 5 days
 
 ! Fandom (Blocks Fandom Videos, Works in AdGuard for iOS & Android)
 
