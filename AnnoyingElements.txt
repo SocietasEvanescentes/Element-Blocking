@@ -50,6 +50,7 @@ outlook.live.com###QrConnect_container
 bing.com###b_opalpers
 bing.com###id_rc
 bing.com###id_rh
+bing.com###rewards_header_icon\ serp
 bing.com###rewardsEntryPoint
 onedrive.live.com###od-PremiumUpsellBanner-LeftNav-header
 onedrive.live.com###od-PremiumUpsellBanner-LeftNav-link
