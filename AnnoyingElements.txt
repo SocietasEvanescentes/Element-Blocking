@@ -1,6 +1,6 @@
 ! Title: 😡 My Personal Blocking of Annoying Elements
-! Version: 2023
-! Expires: 5 days
+! Version: 5.7.2023
+! Expires: 1 day
 
 ! Fandom (Blocks Fandom Videos, Works in AdGuard for iOS & Android)
 
@@ -63,6 +63,7 @@ bing.com##.b_recents
 bing.com##.vs
 bing.com###sydwrap_wrapper
 rewards.bing.com###suggested-rewards
+bing.com###rewards_header_icon
 
 ! Block Reddit Elements
 
