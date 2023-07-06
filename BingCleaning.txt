@@ -26,3 +26,4 @@ bing.com###sydwrap_wrapper
 bing.com###mfa_srch
 bing.com###df_listaa
 bing.com##.mfa_btn
+bing.com###serpvidans
