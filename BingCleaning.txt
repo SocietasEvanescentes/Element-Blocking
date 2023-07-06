@@ -1,4 +1,4 @@
-! Title: 🫧 Bing Cleaning (Cleans up Bing.com)
+! Title: 🧽 Bing Cleaning (Cleans up Bing.com)
 ! Version: 6.7.2023
 ! Last modified: 06 Jul 2023
 ! Expires: 1 day (update frequency)
