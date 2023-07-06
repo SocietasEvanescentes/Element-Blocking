@@ -23,3 +23,5 @@ bing.com###rewards_header_icon
 ! <-----Unrelated to Bing Search Context (footer or hovering buttons)----->
 bing.com##.vs
 bing.com###sydwrap_wrapper
+bing.com###mfa_srch
+bing.com###df_listaa
