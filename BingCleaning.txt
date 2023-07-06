@@ -14,6 +14,7 @@ bing.com###lgAnsFeedbackMopContainer
 bing.com###b_opalpers
 bing.com###id_rc
 bing.com###id_rh
+bing.com###id_rfob
 bing.com###rewards_header_icon serp
 bing.com###rewardsEntryPoint
 rewards.bing.com###suggested-rewards
