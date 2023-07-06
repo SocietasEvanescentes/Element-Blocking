@@ -4,4 +4,22 @@
 ! Expires: 1 day (update frequency)
 ! Homepage:https://github.com/SocietasEvanescentes/Element-Blocking
 
-! To be edited, first version dummy placeholder. 
+! <-----Block Trending Bing----->
+bing.com###b_opalpers
+bing.com###tob_rail_container
+bing.com###lgImgAnsContainer
+bing.com###lgAnsFeedbackMopContainer
+
+! <-----Bing Rewards Reference Remover----->
+! (I use Give with Bing, and I don't like the gamification of Microsoft Rewards as it turns one into a lab rat)
+bing.com###b_opalpers
+bing.com###id_rc
+bing.com###id_rh
+bing.com###rewards_header_icon serp
+bing.com###rewardsEntryPoint
+rewards.bing.com###suggested-rewards
+bing.com###rewards_header_icon
+
+! <-----Unrelated to Bing Search Context (footer or hovering buttons)----->
+bing.com##.vs
+bing.com###sydwrap_wrapper
