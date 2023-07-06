@@ -27,31 +27,13 @@ app.prolific.co##.pendo-badge, ._pendo-badge
 
 paypal.com###ccpaCookieBanner
 
-! Block Trending Bing
-bing.com###b_opalpers
-bing.com###tob_rail_container
-bing.com###lgImgAnsContainer
-bing.com###lgAnsFeedbackMopContainer
-
-! Block Office 365
-
-office.com###meet-now-button
-office.com###GoPremiumDiamond_container
-office.com###install-container--fluent
-office.com###feedbackContainer
-
-! Bing, Outlook and OneDrive
+! Microsoft Related
 
 outlook.live.com###owaNoteFeedButton
 onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond_container
 outlook.live.com###skype_container
 outlook.live.com###owaMeetNowButton_container
 outlook.live.com###QrConnect_container
-bing.com###b_opalpers
-bing.com###id_rc
-bing.com###id_rh
-bing.com###rewards_header_icon\ serp
-bing.com###rewardsEntryPoint
 onedrive.live.com###od-PremiumUpsellBanner-LeftNav-header
 onedrive.live.com###od-PremiumUpsellBanner-LeftNav-link
 onedrive.live.com###od-PremiumUpsellBanner-details
@@ -61,33 +43,13 @@ onedrive.live.com###od-PremiumUpsellBanner-header
 onedrive.live.com###od-PremiumUpsellBanner
 onedrive.live.com###StorageInfo-upsellWrapper
 onedrive.live.com###PROD_OneDrive-Web_SuiteNav_Unknown_HeaderDiamond
-bing.com##.b_recents
-bing.com##.vs
-bing.com###sydwrap_wrapper
-rewards.bing.com###suggested-rewards
-bing.com###rewards_header_icon
-
-! Block Reddit Elements
-
-
-old.reddit.com###redesign-beta-optin-btn
-old.reddit.com###ecb
-old.reddit.com##.tutorial_post
-reddit.com###redesign-beta-optin-btn
-old.reddit.com##.footer-parent
-reddit.com##.footer-parent
-
-
-! Amazon 
-
-alexa.amazon.com###d-deprecation-banner
-smile.amazon.com###expandable-nav storage-menu
-smile.amazon.com###device-personalization-nav
-
+office.com###meet-now-button
+office.com###GoPremiumDiamond_container
+office.com###install-container--fluent
+office.com###feedbackContainer
 
 ! Vudu
 vudu.com###kustomer-ui-sdk-iframe
-
 
 ! Google
 docs.google.com###docs-meet-in-editors-entrypointbutton
