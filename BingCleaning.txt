@@ -28,3 +28,4 @@ bing.com##.mfa_btn
 ! <-----Annoying Video Suggestions + Explore Feeds----->
 bing.com###serpvidans
 bing.com###lgVidAnsContainer
+bing.com##.imgAns
