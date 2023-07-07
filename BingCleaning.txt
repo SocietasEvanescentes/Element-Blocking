@@ -1,6 +1,6 @@
 ! Title: 🧽 Bing Cleaning (Cleans up Bing.com)
-! Version: 6.7.2023
-! Last modified: 06 Jul 2023
+! Version: 7.7.2023
+! Last modified: 07 Jul 2023 23:32 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/SocietasEvanescentes/Element-Blocking/main/BingCleaning.txt
 
