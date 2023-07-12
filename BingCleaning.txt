@@ -35,3 +35,7 @@ bing.com##.offersBody
 bing.com##.ofrsTtl
 bing.com##.ofrsTtl, .noFlex
 
+! <-----MSN Money----->
+! this first MSN Money rule may affect things outside of MSN Money.
+bing.com##.b_slidebar
+bing.com##.fin_scTitle
