@@ -1,6 +1,6 @@
 ! Title: 🧽 Bing Cleaning (Cleans up Bing.com)
-! Version: 12.7.2023
-! Last modified: 13 Jul 2023 01:37 UTC
+! Version: 13.7.2023
+! Last modified: 13 Jul 2023 15:49 UTC
 ! Expires: 1 day (update frequency)
 ! Homepage: https://raw.githubusercontent.com/SocietasEvanescentes/Element-Blocking/main/BingCleaning.txt
 
@@ -30,6 +30,8 @@ bing.com##.mfa_btn
 bing.com###serpvidans
 bing.com###lgVidAnsContainer
 bing.com##.imgAns
+bing.com###ans_nart
+bing.com##.new_see_more_container
 ! <-----Random sponsored bullshit----->
 bing.com##.offersBody
 bing.com##.ofrsTtl
